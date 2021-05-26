@@ -1,0 +1,7 @@
+C:\Users\SDevyataykin\source\repos\AscII_art_Lesson\AscII_art_Lesson\bin\Debug\AscII_art_Lesson.exe.config
+C:\Users\SDevyataykin\source\repos\AscII_art_Lesson\AscII_art_Lesson\bin\Debug\AscII_art_Lesson.exe
+C:\Users\SDevyataykin\source\repos\AscII_art_Lesson\AscII_art_Lesson\bin\Debug\AscII_art_Lesson.pdb
+C:\Users\SDevyataykin\source\repos\AscII_art_Lesson\AscII_art_Lesson\obj\Debug\AscII_art_Lesson.csprojAssemblyReference.cache
+C:\Users\SDevyataykin\source\repos\AscII_art_Lesson\AscII_art_Lesson\obj\Debug\AscII_art_Lesson.csproj.CoreCompileInputs.cache
+C:\Users\SDevyataykin\source\repos\AscII_art_Lesson\AscII_art_Lesson\obj\Debug\AscII_art_Lesson.exe
+C:\Users\SDevyataykin\source\repos\AscII_art_Lesson\AscII_art_Lesson\obj\Debug\AscII_art_Lesson.pdb
