@@ -22,7 +22,7 @@ namespace AscII_art_Lesson
 
         }
 
-
+        // Конвертирование точек
         public char[][] Convert()
         {
             return Convert(_asciiTable);
