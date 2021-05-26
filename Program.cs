@@ -18,7 +18,7 @@ namespace AscII_art_Lesson
         {
 
             Console.BackgroundColor = ConsoleColor.Black;
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.White;
             
             
             var openFiledialog = new OpenFileDialog
@@ -55,7 +55,7 @@ namespace AscII_art_Lesson
 
         private static Bitmap ResizeBitmap(Bitmap bitmap)
         {
-            var maxWidth = 474;
+            var maxWidth = 250;
             var newHeight = bitmap.Height / WIDTH_OFFSET * maxWidth / bitmap.Width;
             if (bitmap.Width > maxWidth || bitmap.Height > newHeight)
                 bitmap = new Bitmap(bitmap,new Size(maxWidth,(int)newHeight));
